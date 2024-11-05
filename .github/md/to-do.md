@@ -64,7 +64,7 @@ Esse será o repositório com as soluções do desafio, dentro dele terá uma pa
 
 Nesse repositório terá as soluções de outros devs, por isso o uso do underline é importante. Pois isso vai diferênciar a solução principal das demais.
 
-Dentro da pasta crie um arquivo **index.js** com o código da solução do desafio e também um arquivo **readme.md** que terá a explicação do código em português.
+Dentro da pasta crie um arquivo **index.js** com o código da solução do desafio e também um arquivo **readme.md** que terá a explicação do código em português. Recomendo que use esse modelo de [readme.md](model/mr-readme.md).
 
 ##### index.js
 
