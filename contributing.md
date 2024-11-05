@@ -37,4 +37,4 @@ Cada diretório em nosso repositório possui um objetivo diferente, os desafios 
 
 ---
 
-Vanillha! 🌈✨ Feito com 🩵 by Martins 🖖
+Vanillha 🌈✨ Feito com 🩵 by Martins 🖖
