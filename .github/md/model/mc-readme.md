@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo ipsam molestiae i
 
 1. Faça um **fork**;
 2. Crie um novo **branch**;
-3. Adicione uma pasta com seu código dentro de resolutions/ de acordo com as [instruções](./to-do.md) e comite suas alterações, lembrando que o uso do **underline** no nome do diretório é só para quem criou o desafio;
+3. Adicione uma pasta com seu código dentro de resolutions/ de acordo com as [instruções](../to-do.md) e comite suas alterações, lembrando que o uso do **underline** no nome do diretório é só para quem criou o desafio;
 4. Envie um **pull request**.
 
 ---
